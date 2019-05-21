@@ -1,5 +1,3 @@
-require 'benchmark'
-
 class LinkedList
 
   def initialize
@@ -171,3 +169,4 @@ list.push 4
 list.push 5
 list.push 6
 
+list.display
